@@ -1,7 +1,4 @@
-# BillBalancer
-<div align="center">
-  <img src="expense-tracker.png" alt="Group Expense Tracker" width="300"/>
-</div>
+
 
 # BillBalancer
 
